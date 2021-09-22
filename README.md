@@ -72,6 +72,8 @@ Successfully reloaded application (/) commands.
 
 > Note If you add any commands make sure to run the above command again to register it with discord, also do not run it after a successfull run or else you will have duplicate commands
 
+# Usage
+
 Now to use the bot, go back to terminal and type the following command  
 ```bash
 node .
